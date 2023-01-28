@@ -119,33 +119,13 @@ h3{
     color: #fff;
 }
 
-.container .card:hover .face.face1{
-    background: rgb(209, 209, 62);
+.container .card:hover .face.face22{
+    background: rgb(140, 44, 188);
     transform: translateY(0);
 }
 
 .container .card:hover .face.face21{
-    background: rgb(209, 209, 62);
-    transform: translateY(0);
-}
-
-.container .card:hover .face.face22{
-    background: rgb(209, 209, 62);
-    transform: translateY(0);
-}
-
-.container .card:hover .face.face23{
-    background: rgb(209, 209, 62);
-    transform: translateY(0);
-}
-
-.container .card:hover .face.face24{
-    background: rgb(209, 209, 62);
-    transform: translateY(0);
-}
-
-.container .card:hover .face.face25{
-    background: rgb(209, 209, 62);
+    background: rgb(140, 44, 188);
     transform: translateY(0);
 }
 
